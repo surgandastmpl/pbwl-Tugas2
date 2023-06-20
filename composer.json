@@ -1,0 +1,19 @@
+{
+    "name": "surganda/si-mvc",
+    "description": "Tugas-2_PBWL-MVC 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Surganda-Sitompul",
+            "email": "surganda@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
